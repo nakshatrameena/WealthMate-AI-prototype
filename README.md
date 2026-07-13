@@ -15,3 +15,4 @@ React + FastAPI + Machine Learning
 Team:
 Nakshatra Meena
 # WealthMate-AI-prototype
+# WealthMate-AI-prototype
